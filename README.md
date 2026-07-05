@@ -3,7 +3,7 @@
 <!-- ========================== -->
 
 <p align="center">
-<img src=Banner.png" width="100%" alt="Banner">
+  <img src="Banner.png" alt="Banner" width="100%">
 </p>
 
 <div align="center">
