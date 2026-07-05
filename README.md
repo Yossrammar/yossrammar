@@ -3,140 +3,83 @@
 <!-- ========================== -->
 
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="Banner" width="100%" />
+  <img src="https://drive.google.com/file/d/1BSDSLXgGp22tHg5AjsTSOworw6si_0TR/view?usp=sharing" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Yossr Ammar</h1>
+<div align="center">
 
-<h3 align="center">
-AI & Data Science Engineering Student | Software Engineer | Machine Learning Enthusiast
-</h3>
+# Hi 👋, I'm Yossr Ammar
 
-<p align="center">
-Building intelligent solutions with code, data and curiosity.
-</p>
+### 🎓 AI & Data Science Engineering Student
 
-<p align="center">
-<a href="https://www.linkedin.com/in/yossr-ammar-1b5994222/?skipRedirect=true">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+💻 Software Engineering • 🤖 Machine Learning • 📊 Data Science • ⚡ Competitive Programming
 
-<a href="mailto:yossr.ammar.9@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+📍 Monastir, Tunisia
 
-<a href="https://github.com/Yossrammar">
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge"/>
-</a>
+<a href="https://www.linkedin.com/in/yossr-ammar-1b5994222/?skipRedirect=true">LinkedIn</a> •
+<a href="https://github.com/Yossrammar">GitHub</a> •
+<a href="https://codeforces.com/profile/yossrammar">Codeforces</a>
 
-<a href="https://codeforces.com/profile/yossrammar">
-<img src="https://img.shields.io/badge/Codeforces-yossrammar-blue?style=for-the-badge&logo=codeforces"/>
-</a>
-</p>
+</div>
 
 ---
 
-# 👩🏻‍💻 About Me
+## 👩‍💻 About Me
 
-🎓 AI & Data Science Engineering Student
+I'm an AI & Data Science Engineering student passionate about building intelligent applications and solving real-world problems through software and data.
 
-💻 Passionate about Software Engineering and Artificial Intelligence
+I enjoy learning by building projects, participating in competitive programming, and continuously exploring Artificial Intelligence, Machine Learning, and Data Science.
 
-🤖 Interested in Machine Learning, Computer Vision and NLP
-
-⚡ Competitive Programming Enthusiast
-
-🌱 Currently learning Deep Learning, PyTorch and MLOps
-
-🚀 I love transforming ideas into intelligent software solutions.
+Currently looking for opportunities to grow as an AI Engineer and contribute to impactful projects.
 
 ---
 
-# 🚀 Current Focus
+## 🚀 Currently Learning
 
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Computer Vision
-- Natural Language Processing
-- Software Engineering
-- Competitive Programming
-
----
-
-# 🛠️ Tech Stack
-
-### Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,java,c,js,php,sql"/>
-
-</p>
-
-### Frameworks
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=flutter,django,bootstrap"/>
-
-</p>
-
-### Data Science
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-NumPy • Pandas • Matplotlib • Scikit-Learn (Learning)
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql"/>
-
-</p>
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 📊 Data Science
+- 👁️ Computer Vision
+- 💬 Natural Language Processing
+- ☁️ AI Engineering
 
 ---
 
-# 🚀 Featured Projects
+## 💼 Featured Projects
 
-## 🔹 SSO Authentication with Facial Recognition
-
+### 🔹 SSO Authentication with Facial Recognition
 Python • Flutter
 
-Facial authentication system integrated into a Flutter application.
+Facial recognition authentication system integrated into a Flutter application.
 
----
-
-## 🔹 InternHub
-
+### 🔹 InternHub
 Django • Python • SQLite
 
-Internship management platform with role-based access.
+Internship management platform with student, company and admin roles.
 
----
+### 🔹 CP Tracker
+Python • MySQL • CustomTkinter
 
-## 🔹 CP Tracker
+Desktop application that tracks Codeforces progress using the Codeforces API.
 
-Python • MySQL
-
-Desktop application using the Codeforces API.
-
----
-
-## 🔹 Secrito Café Website
-
+### 🔹 Secrito
 HTML • CSS • JavaScript • PHP
 
-Responsive website with modern UI.
+Responsive café website with dynamic content.
 
 ---
 
-# 📊 GitHub Statistics
+## 🛠️ Tech Stack
+
+<p align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,javascript,php,flutter,django,html,css,bootstrap,mysql,sqlite,git,github,vscode)](https://skillicons.dev)
+
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -154,59 +97,31 @@ Responsive website with modern UI.
 
 ---
 
-# ⚡ Codeforces
+## 🏆 Certifications
 
-<p align="center">
-
-<a href="https://codeforces.com/profile/yossrammar">
-
-<img src="https://img.shields.io/badge/Handle-yossrammar-blue?style=for-the-badge&logo=codeforces"/>
-
-</a>
-
-</p>
+- 🏅 PyTorch & Deep Learning
+- 🏅 Data Science & Analytics
+- 🏅 Intro to Artificial Intelligence
+- 🏅 Natural Language Processing in Python
 
 ---
 
-# 🏆 Certifications
+## 🌱 Interests
 
-🏅 PyTorch & Deep Learning – Linux Foundation
-
-🏅 Data Science & Analytics – HP
-
-🏅 Intro to AI – Udacity
-
-🏅 NLP in Python – DataCamp
-
-🏅 Python – DataCamp
-
----
-
-# 🏅 Leadership
-
-👨‍💻 Technical Lead — ACM EPS
-
-📚 Secretary General — ATAST ISITCom
-
-🚀 Vice President — Enactus ISITCom
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Computer Vision
+- NLP
+- Intelligent Systems
+- Competitive Programming
+- Software Engineering
 
 ---
 
-# 🌍 Languages
+## 📫 Connect with Me
 
-🇹🇳 Arabic — Native
-
-🇫🇷 French — Fluent
-
-🇬🇧 English — Professional
-
----
-
-# 📫 Contact
-
-📍 Monastir, Tunisia
-
-📧 yossr.ammar.9@gmail.com
+📧 **yossr.ammar.9@gmail.com**
 
 💼 LinkedIn
 
@@ -216,16 +131,8 @@ Responsive website with modern UI.
 
 ---
 
-<p align="center">
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge"/>
+### ⭐ Always learning, always building, always improving.
 
-</p>
-
----
-
-<h3 align="center">
-
-✨ "Still learning. Still building. Always improving."
-
-</h3>
+</div>
