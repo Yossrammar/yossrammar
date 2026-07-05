@@ -6,15 +6,18 @@
   <img src="https://raw.githubusercontent.com/Yossrammar/Yossrammar/main/Banner.png" alt="Banner" width="100%">
 </p>
 
-<div align="center">
 
-# Hi 👋, I'm Yossr Ammar
+<h1 align="center">Hi 👋, I'm Yossr Ammar</h1>
 
-### 🎓 AI & Data Science Engineering Student
+<h3 align="center">
+AI & Data Science Engineering Student • Software Engineer • Machine Learning Enthusiast
+</h3>
 
-💻 Software Engineering • 🤖 Machine Learning • 📊 Data Science • ⚡ Competitive Programming
+<p align="center">
+Building intelligent solutions with code, data & curiosity.
+</p>
 
-📍 Monastir, Tunisia
+<p align="center">
 
 <a href="https://www.linkedin.com/in/yossr-ammar-1b5994222/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -32,74 +35,93 @@
 <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
 
 # 👩🏻‍💻 About Me
 
-```python
-class YossrAmmar:
+🎓 AI & Data Science Engineering student at **École Polytechnique de Sousse (EPS)**.
 
-    location = "Monastir, Tunisia"
+I'm passionate about building intelligent applications that combine **Artificial Intelligence**, **Machine Learning**, **Data Science**, and **Software Engineering**.
 
-    education = "AI & Data Science Engineering Student"
-
-    interests = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Data Science",
-        "Computer Vision",
-        "Natural Language Processing",
-        "Software Engineering"
-    ]
-
-    currently_learning = [
-        "Deep Learning",
-        "PyTorch",
-        "LLMs",
-        "MLOps"
-    ]
-
-    hobbies = [
-        "Competitive Programming",
-        "Building Projects",
-        "Learning New Technologies"
-    ]
-```
+I enjoy solving algorithmic challenges through competitive programming, learning modern AI technologies, and transforming ideas into practical software solutions.
 
 ---
 
-# 🚀 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript,php,django,flutter,html,css,bootstrap,mysql,sqlite,git,github,vscode,linux"/>
-
-</p>
-
----
-
-# 📚 Currently Learning
+# 🚀 Current Focus
 
 - 🤖 Machine Learning
 - 🧠 Deep Learning
 - 📊 Data Science
 - 👁️ Computer Vision
 - 💬 Natural Language Processing
+- 🦙 Large Language Models (LLMs)
 - ☁️ AI Engineering
-- 🦙 Large Language Models
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,js,php,sql"/>
+</p>
+
+### Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,flutter,bootstrap"/>
+</p>
+
+### AI & Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+</p>
+
+NumPy • Pandas • Matplotlib • Scikit-learn
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,sqlite,linux"/>
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Technologies |
-|---------|--------------|
-| 🤖 SSO Authentication with Facial Recognition | Python • Flutter |
-| 💼 InternHub | Django • SQLite |
-| 📈 CP Tracker | Python • MySQL |
-| ☕ Secrito Café Website | HTML • CSS • JS • PHP |
+### 🤖 FaceAuth
+
+**SSO Authentication System with Facial Recognition**
+
+Python • Flutter
+
+---
+
+### 💼 InternHub
+
+**Internship Management Platform**
+
+Django • Python • SQLite
+
+---
+
+### 📈 CP Tracker
+
+**Competitive Programming Tracker**
+
+Python • MySQL • Codeforces API
+
+---
+
+### ☕ Secrito
+
+**Responsive Café Website**
+
+HTML • CSS • JavaScript • PHP
 
 ---
 
@@ -107,9 +129,9 @@ class YossrAmmar:
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yossrammar&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Yossrammar&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yossrammar&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yossrammar&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -121,27 +143,7 @@ class YossrAmmar:
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yossrammar&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Yossrammar&theme=tokyonight&no-frame=true&column=4"/>
-
-</p>
-
----
-
-# ⚡ Competitive Programming
+# 💻 Competitive Programming
 
 <p align="center">
 
@@ -153,31 +155,27 @@ class YossrAmmar:
 
 </p>
 
-> Solving algorithmic problems and continuously improving problem-solving skills through competitive programming.
+⭐ Passionate about algorithmic problem solving and continuously improving through competitive programming.
 
 ---
 
-# 📜 Certifications
+# 🏆 Certifications
 
 - 🏅 PyTorch & Deep Learning
 - 🏅 Data Science & Analytics
-- 🏅 Intro to AI
-- 🏅 NLP in Python
+- 🏅 Intro to Artificial Intelligence
 - 🏅 Python
+- 🏅 Natural Language Processing (NLP)
 
 ---
 
-# 🌱 Interests
+# 🌍 Languages
 
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Data Science
-- Computer Vision
-- NLP
-- Intelligent Systems
-- Software Engineering
-- Competitive Programming
+🇹🇳 Arabic — Native
+
+🇫🇷 French — Fluent
+
+🇬🇧 English — Professional
 
 ---
 
@@ -206,15 +204,13 @@ class YossrAmmar:
 ---
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Yossrammar&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
-
+<img src="https://komarev.com/ghpvc/?username=Yossrammar&label=Profile%20Views&color=7F3FBF&style=for-the-badge"/>
 </p>
 
 ---
 
 <h3 align="center">
 
-✨ Building intelligent solutions with code, data & curiosity.
+⭐ "Learn. Build. Improve. Repeat."
 
 </h3>
