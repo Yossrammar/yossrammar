@@ -1,40 +1,62 @@
-<!-- ========================== -->
-<!--           BANNER           -->
-<!-- ========================== -->
+<!-- ========================= -->
+<!--          BANNER           -->
+<!-- ========================= -->
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1BSDSLXgGp22tHg5AjsTSOworw6si_0TR/view?usp=sharing" alt="Banner" width="100%" />
+  <img src="assets/banner.png" alt="Banner" width="100%">
 </p>
 
-<div align="center">
+<h1 align="center">Hi 👋, I'm Yossr Ammar</h1>
 
-# Hi 👋, I'm Yossr Ammar
+<h3 align="center">
+AI & Data Science Engineering Student | Software Engineering | Machine Learning Enthusiast
+</h3>
 
-### 🎓 AI & Data Science Engineering Student
+<p align="center">
+Building intelligent solutions with code, data and curiosity.
+</p>
 
-💻 Software Engineering • 🤖 Machine Learning • 📊 Data Science • ⚡ Competitive Programming
+<p align="center">
 
-📍 Monastir, Tunisia
+<a href="https://www.linkedin.com/in/yossr-ammar-1b5994222/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<a href="https://www.linkedin.com/in/yossr-ammar-1b5994222/?skipRedirect=true">LinkedIn</a> •
-<a href="https://github.com/Yossrammar">GitHub</a> •
-<a href="https://codeforces.com/profile/yossrammar">Codeforces</a>
+<a href="mailto:yossr.ammar.9@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-</div>
+<a href="https://github.com/Yossrammar">
+<img src="https://img.shields.io/github/followers/Yossrammar?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://codeforces.com/profile/yossrammar">
+<img src="https://img.shields.io/badge/Codeforces-yossrammar-blue?style=for-the-badge&logo=codeforces"/>
+</a>
+
+</p>
 
 ---
 
-## 👩‍💻 About Me
+# 👩🏻‍💻 About Me
 
-I'm an AI & Data Science Engineering student passionate about building intelligent applications and solving real-world problems through software and data.
+🎓 AI & Data Science Engineering Student at **École Polytechnique de Sousse**
 
-I enjoy learning by building projects, participating in competitive programming, and continuously exploring Artificial Intelligence, Machine Learning, and Data Science.
+💻 Passionate about Software Engineering & Artificial Intelligence
 
-Currently looking for opportunities to grow as an AI Engineer and contribute to impactful projects.
+🤖 Interested in Machine Learning, Computer Vision and NLP
+
+📊 Love transforming data into intelligent solutions
+
+⚡ Competitive Programming Enthusiast on Codeforces
+
+🌱 Currently learning Deep Learning, PyTorch and MLOps
+
+🚀 Always learning, always building.
 
 ---
 
-## 🚀 Currently Learning
+# 🚀 Current Focus
 
 - 🤖 Machine Learning
 - 🧠 Deep Learning
@@ -42,97 +64,158 @@ Currently looking for opportunities to grow as an AI Engineer and contribute to 
 - 👁️ Computer Vision
 - 💬 Natural Language Processing
 - ☁️ AI Engineering
+- ⚡ Competitive Programming
 
 ---
 
-## 💼 Featured Projects
+# 💼 Featured Projects
 
-### 🔹 SSO Authentication with Facial Recognition
+## 🔹 SSO Authentication with Facial Recognition
+
 Python • Flutter
 
-Facial recognition authentication system integrated into a Flutter application.
+Facial recognition authentication integrated into a Flutter application.
 
-### 🔹 InternHub
+---
+
+## 🔹 InternHub
+
 Django • Python • SQLite
 
-Internship management platform with student, company and admin roles.
+Internship management platform with Student, Company and Admin roles.
 
-### 🔹 CP Tracker
+---
+
+## 🔹 CP Tracker
+
 Python • MySQL • CustomTkinter
 
-Desktop application that tracks Codeforces progress using the Codeforces API.
+Desktop application using the Codeforces API.
 
-### 🔹 Secrito
+---
+
+## 🔹 Secrito Café Website
+
 HTML • CSS • JavaScript • PHP
 
-Responsive café website with dynamic content.
+Responsive website with dynamic content.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,javascript,php,flutter,django,html,css,bootstrap,mysql,sqlite,git,github,vscode)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript,php,flutter,django,html,css,bootstrap,mysql,sqlite,git,github,vscode"/>
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yossrammar&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yossrammar&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Yossrammar&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🏆 Certifications
+# ⚡ Codeforces
 
-- 🏅 PyTorch & Deep Learning
-- 🏅 Data Science & Analytics
-- 🏅 Intro to Artificial Intelligence
-- 🏅 Natural Language Processing in Python
+<p align="center">
+
+<a href="https://codeforces.com/profile/yossrammar">
+
+<img src="https://img.shields.io/badge/Handle-yossrammar-blue?style=for-the-badge&logo=codeforces"/>
+
+</a>
+
+</p>
 
 ---
 
-## 🌱 Interests
+# 🏆 Certifications
+
+🏅 PyTorch & Deep Learning — Linux Foundation
+
+🏅 Data Science & Analytics — HP
+
+🏅 Intro to Artificial Intelligence — Udacity
+
+🏅 Python — DataCamp
+
+🏅 NLP in Python — DataCamp
+
+---
+
+# 🌱 Interests
 
 - Artificial Intelligence
 - Machine Learning
+- Deep Learning
 - Data Science
 - Computer Vision
 - NLP
+- Software Engineering
 - Intelligent Systems
 - Competitive Programming
-- Software Engineering
 
 ---
 
-## 📫 Connect with Me
+# 🌍 Languages
 
-📧 **yossr.ammar.9@gmail.com**
+🇹🇳 Arabic — Native
 
-💼 LinkedIn
+🇫🇷 French — Fluent
 
-💻 GitHub
-
-⚡ Codeforces
+🇬🇧 English — Professional
 
 ---
 
-<div align="center">
+# 📫 Connect with Me
 
-### ⭐ Always learning, always building, always improving.
+<p align="center">
 
-</div>
+<a href="mailto:yossr.ammar.9@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/yossr-ammar-1b5994222/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Yossrammar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://codeforces.com/profile/yossrammar">
+<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Yossrammar&style=for-the-badge&color=blueviolet"/>
+
+</p>
+
+---
+
+<h2 align="center">
+
+⭐ *"Building intelligent solutions with code, data & curiosity."*
+
+</h2>
