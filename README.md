@@ -3,7 +3,7 @@
 <!-- ========================== -->
 
 <p align="center">
-  <img src="Banner.png" alt="Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/Yossrammar/Yossrammar/main/Banner.png" alt="Banner" width="100%">
 </p>
 
 <div align="center">
