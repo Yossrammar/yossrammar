@@ -2,13 +2,15 @@
 
 # Hi 👋, I'm Yossr Ammar
 
-### AI & Data Science Engineering Student
+### 🎓 AI & Data Science Engineering Student
 
 💻 Software Engineering • 🤖 Machine Learning • 📊 Data Science • ⚡ Competitive Programming
 
 📍 Monastir, Tunisia
 
-[LinkedIn](https://linkedin.com/in/your-linkedin) • [GitHub](https://github.com/yourusername) • [Codeforces](https://codeforces.com/profile/yourhandle)
+<a href="https://www.linkedin.com/in/yossr-ammar-1b5994222/">LinkedIn</a> •
+<a href="https://github.com/Yossrammar">GitHub</a> •
+<a href="https://codeforces.com/profile/yossrammar">Codeforces</a>
 
 </div>
 
@@ -16,73 +18,113 @@
 
 ## 👩‍💻 About Me
 
-I'm an AI & Data Science engineering student passionate about building intelligent applications and solving real-world problems.
+I'm an AI & Data Science Engineering student passionate about building intelligent applications and solving real-world problems through software and data.
 
-My interests include **Machine Learning, Computer Vision, Data Science, NLP, and Software Engineering**. I enjoy learning through hands-on projects, competitive programming, and continuous experimentation.
+I enjoy learning by building projects, participating in competitive programming, and continuously exploring Artificial Intelligence, Machine Learning, and Data Science.
 
-Currently seeking opportunities to grow as an AI Engineer while contributing to impactful projects.
+Currently looking for opportunities to grow as an AI Engineer and contribute to impactful projects.
 
 ---
 
-## 🚀 Current Focus
+## 🚀 Currently Learning
 
 - 🤖 Machine Learning
+- 🧠 Deep Learning
 - 📊 Data Science
-- 🧠 Computer Vision
-- 🌐 Intelligent Systems
-- ⚡ Competitive Programming
+- 👁️ Computer Vision
+- 💬 Natural Language Processing
+- ☁️ AI Engineering
+
+---
+
+## 💼 Featured Projects
+
+### 🔹 SSO Authentication with Facial Recognition
+Python • Flutter
+
+Facial recognition authentication system integrated into a Flutter application.
+
+### 🔹 InternHub
+Django • Python • SQLite
+
+Internship management platform with student, company and admin roles.
+
+### 🔹 CP Tracker
+Python • MySQL • CustomTkinter
+
+Desktop application that tracks Codeforces progress using the Codeforces API.
+
+### 🔹 Secrito
+HTML • CSS • JavaScript • PHP
+
+Responsive café website with dynamic content.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-Python • Java • C • JavaScript • PHP • SQL
+<p align="center">
 
-### AI & Data Science
-NumPy • Pandas • Matplotlib • Scikit-learn (Learning)
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,javascript,php,flutter,django,html,css,bootstrap,mysql,sqlite,git,github,vscode)](https://skillicons.dev)
 
-### Frameworks
-Flutter • Django • HTML • CSS • Bootstrap
-
-### Databases
-MySQL • SQLite
-
-### Tools
-Git • GitHub • VS Code
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 📊 GitHub Stats
 
-🔹 SSO Authentication with Facial Recognition
+<p align="center">
 
-🔹 InternHub – Internship Management Platform
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-🔹 CP Tracker – Codeforces Progress Tracker
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-🔹 Secrito – Café Website
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
 ## 🏆 Certifications
 
-✔ PyTorch & Deep Learning
+- 🏅 PyTorch & Deep Learning
+- 🏅 Data Science & Analytics
+- 🏅 Intro to Artificial Intelligence
+- 🏅 Natural Language Processing in Python
 
-✔ Data Science & Analytics
+---
 
-✔ Intro to AI
+## 🌱 Interests
 
-✔ NLP in Python
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Computer Vision
+- NLP
+- Intelligent Systems
+- Competitive Programming
+- Software Engineering
 
 ---
 
 ## 📫 Connect with Me
 
-📧 yossr.ammar.9@gmail.com
+📧 **yossr.ammar.9@gmail.com**
 
 💼 LinkedIn
 
+💻 GitHub
+
 ⚡ Codeforces
 
-🌟 Always learning. Always building.
+---
+
+<div align="center">
+
+### ⭐ Always learning, always building, always improving.
+
+</div>
