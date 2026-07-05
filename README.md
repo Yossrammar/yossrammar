@@ -1,22 +1,20 @@
-<!-- ========================= -->
-<!--          BANNER           -->
-<!-- ========================= -->
+<!-- ========================== -->
+<!--          BANNER            -->
+<!-- ========================== -->
 
 <p align="center">
   <img src="assets/banner.png" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Yossr Ammar</h1>
+<div align="center">
 
-<h3 align="center">
-AI & Data Science Engineering Student | Software Engineering | Machine Learning Enthusiast
-</h3>
+# Hi 👋, I'm Yossr Ammar
 
-<p align="center">
-Building intelligent solutions with code, data and curiosity.
-</p>
+### 🎓 AI & Data Science Engineering Student
 
-<p align="center">
+💻 Software Engineering • 🤖 Machine Learning • 📊 Data Science • ⚡ Competitive Programming
+
+📍 Monastir, Tunisia
 
 <a href="https://www.linkedin.com/in/yossr-ammar-1b5994222/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -27,36 +25,62 @@ Building intelligent solutions with code, data and curiosity.
 </a>
 
 <a href="https://github.com/Yossrammar">
-<img src="https://img.shields.io/github/followers/Yossrammar?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://codeforces.com/profile/yossrammar">
-<img src="https://img.shields.io/badge/Codeforces-yossrammar-blue?style=for-the-badge&logo=codeforces"/>
+<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 # 👩🏻‍💻 About Me
 
-🎓 AI & Data Science Engineering Student at **École Polytechnique de Sousse**
+```python
+class YossrAmmar:
 
-💻 Passionate about Software Engineering & Artificial Intelligence
+    location = "Monastir, Tunisia"
 
-🤖 Interested in Machine Learning, Computer Vision and NLP
+    education = "AI & Data Science Engineering Student"
 
-📊 Love transforming data into intelligent solutions
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Data Science",
+        "Computer Vision",
+        "Natural Language Processing",
+        "Software Engineering"
+    ]
 
-⚡ Competitive Programming Enthusiast on Codeforces
+    currently_learning = [
+        "Deep Learning",
+        "PyTorch",
+        "LLMs",
+        "MLOps"
+    ]
 
-🌱 Currently learning Deep Learning, PyTorch and MLOps
-
-🚀 Always learning, always building.
+    hobbies = [
+        "Competitive Programming",
+        "Building Projects",
+        "Learning New Technologies"
+    ]
+```
 
 ---
 
-# 🚀 Current Focus
+# 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript,php,django,flutter,html,css,bootstrap,mysql,sqlite,git,github,vscode,linux"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
 
 - 🤖 Machine Learning
 - 🧠 Deep Learning
@@ -64,51 +88,18 @@ Building intelligent solutions with code, data and curiosity.
 - 👁️ Computer Vision
 - 💬 Natural Language Processing
 - ☁️ AI Engineering
-- ⚡ Competitive Programming
+- 🦙 Large Language Models
 
 ---
 
-# 💼 Featured Projects
+# 🚀 Featured Projects
 
-## 🔹 SSO Authentication with Facial Recognition
-
-Python • Flutter
-
-Facial recognition authentication integrated into a Flutter application.
-
----
-
-## 🔹 InternHub
-
-Django • Python • SQLite
-
-Internship management platform with Student, Company and Admin roles.
-
----
-
-## 🔹 CP Tracker
-
-Python • MySQL • CustomTkinter
-
-Desktop application using the Codeforces API.
-
----
-
-## 🔹 Secrito Café Website
-
-HTML • CSS • JavaScript • PHP
-
-Responsive website with dynamic content.
-
----
-
-# 🛠️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript,php,flutter,django,html,css,bootstrap,mysql,sqlite,git,github,vscode"/>
-
-</p>
+| Project | Technologies |
+|---------|--------------|
+| 🤖 SSO Authentication with Facial Recognition | Python • Flutter |
+| 💼 InternHub | Django • SQLite |
+| 📈 CP Tracker | Python • MySQL |
+| ☕ Secrito Café Website | HTML • CSS • JS • PHP |
 
 ---
 
@@ -116,45 +107,63 @@ Responsive website with dynamic content.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yossrammar&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yossrammar&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yossrammar&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yossrammar&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Yossrammar&theme=tokyonight&hide_border=true"/>
+<img width="60%" src="https://streak-stats.demolab.com?user=Yossrammar&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# ⚡ Codeforces
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yossrammar&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Yossrammar&theme=tokyonight&no-frame=true&column=4"/>
+
+</p>
+
+---
+
+# ⚡ Competitive Programming
 
 <p align="center">
 
 <a href="https://codeforces.com/profile/yossrammar">
 
-<img src="https://img.shields.io/badge/Handle-yossrammar-blue?style=for-the-badge&logo=codeforces"/>
+<img src="https://img.shields.io/badge/Codeforces-yossrammar-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
 
 </a>
 
 </p>
 
+> Solving algorithmic problems and continuously improving problem-solving skills through competitive programming.
+
 ---
 
-# 🏆 Certifications
+# 📜 Certifications
 
-🏅 PyTorch & Deep Learning — Linux Foundation
-
-🏅 Data Science & Analytics — HP
-
-🏅 Intro to Artificial Intelligence — Udacity
-
-🏅 Python — DataCamp
-
-🏅 NLP in Python — DataCamp
+- 🏅 PyTorch & Deep Learning
+- 🏅 Data Science & Analytics
+- 🏅 Intro to AI
+- 🏅 NLP in Python
+- 🏅 Python
 
 ---
 
@@ -166,23 +175,13 @@ Responsive website with dynamic content.
 - Data Science
 - Computer Vision
 - NLP
-- Software Engineering
 - Intelligent Systems
+- Software Engineering
 - Competitive Programming
 
 ---
 
-# 🌍 Languages
-
-🇹🇳 Arabic — Native
-
-🇫🇷 French — Fluent
-
-🇬🇧 English — Professional
-
----
-
-# 📫 Connect with Me
+# 📫 Let's Connect
 
 <p align="center">
 
@@ -195,11 +194,11 @@ Responsive website with dynamic content.
 </a>
 
 <a href="https://github.com/Yossrammar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://codeforces.com/profile/yossrammar">
-<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces"/>
+<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
 </p>
@@ -208,14 +207,14 @@ Responsive website with dynamic content.
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Yossrammar&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=Yossrammar&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
 
 </p>
 
 ---
 
-<h2 align="center">
+<h3 align="center">
 
-⭐ *"Building intelligent solutions with code, data & curiosity."*
+✨ Building intelligent solutions with code, data & curiosity.
 
-</h2>
+</h3>
